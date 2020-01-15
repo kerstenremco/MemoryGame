@@ -1,0 +1,23 @@
+﻿<Window x:Class="Memorygame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Memorygame"
+        mc:Ignorable="d"
+        Title="MemoryGame" Height="800" Width="1200" WindowStyle="ThreeDBorderWindow">
+    <Grid Background="Black">
+        <TextBlock x:Name="Memory_game" Margin="0,0,0,0" TextWrapping="Wrap" HorizontalAlignment="Center" Width="400" FontSize="36" Foreground="#FF1B1B1B" TextAlignment="Center" FontWeight="Bold" Background="#FF5151DE" Height="100" VerticalAlignment="Top"><Run Text="Memory game "/><LineBreak/><Run Text="Good luck!"/></TextBlock>
+        <Button x:Name="Continue" Content="Continue" Margin="300,232,300,0" VerticalAlignment="Top" Height="60" Click="Button_Continue" Background="#FF5151DE" FontSize="36" RenderTransformOrigin="1,0" BorderBrush="Black" Foreground="White"/>
+        <Button x:Name="New_Game" Content="New Game" Margin="300,334,300,0" VerticalAlignment="Top" Height="60" Click="Button_New_Game" Background="#FF5151DE" FontSize="36" RenderTransformOrigin="1,0" BorderBrush="Black" Foreground="White"/>
+        <Button x:Name="Highscores" Content="Highscores" Margin="300,428,300,0" VerticalAlignment="Top" Height="60" Click="Button_Highscores" Background="#FF5151DE" FontSize="36" RenderTransformOrigin="1,0" BorderBrush="Black" Foreground="White" AutomationProperties.HelpText="Bekijk de highscores"/>
+        <Button x:Name="Settings" Content="Settings" Margin="300,522,300,0" VerticalAlignment="Top" Height="60" Click="Button_Settings" Background="#FF5151DE" FontSize="36" RenderTransformOrigin="1,0" BorderBrush="Black" Foreground="White" AutomationProperties.HelpText="Bepaal de settings"/>
+        <Button x:Name="Sluiten" Content="Sluiten" Margin="300,620,300,0" VerticalAlignment="Top" Height="60" Click="Button_Exit" Background="#FF5151DE" FontSize="36" RenderTransformOrigin="1,0" BorderBrush="Black" Foreground="White" AutomationProperties.HelpText="Sluit de game"/>
+        <Canvas Width="200" Height="70" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,20,0" Background="#FF5151DE" MouseLeftButtonDown="Help_Click">
+            <Image Source="/images/Help.png" Width="60" Margin="20,5,0,0" />
+            <Label Content="Help" Width="90" Height="70" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="#FFFFFF" FontSize="36" Margin="80,0,0,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        </Canvas>
+        
+
+    </Grid>
+</Window>

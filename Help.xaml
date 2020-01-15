@@ -1,0 +1,21 @@
+﻿<Window x:Class="Memorygame.Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Memorygame"
+        mc:Ignorable="d"
+        Title="Help" Height="450" Width="800">
+    <Grid Background="Black">
+        <TextBlock HorizontalAlignment="Left" Margin="165,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="85" Width="555" Background="#FF5151DE" Foreground="White"><Run FontWeight="Bold" Text="Continue - "/><Run Text="Hervat een opgeslagen spel."/><LineBreak/><Run FontWeight="Bold" Text="New game - "/><Run Text="Start een nieuw spel."/><LineBreak/><Run FontWeight="Bold" Text="Highscores "/><Run Text="- Bekijk wie de hoogste scores heeft behaald."/><LineBreak/><Run FontWeight="Bold" Text="Settings - "/><Run Text="Pas de instellingen van het spel aan."/><LineBreak/><Run FontWeight="Bold" Text="Exit - "/><Run Text="Verlaat het spel."/></TextBlock>
+        <Label Content="Menu " HorizontalAlignment="Left" Margin="55,57,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.909,0.577" Background="#FF5151DE" Foreground="White" Width="75"/>
+        <TextBlock HorizontalAlignment="Left" Margin="165,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="101" Width="555" Background="#FF5151DE" Foreground="White"><Run Text="Voer eerst de twee namen in. "/><LineBreak/><Run Text="Druk op een afbeelding om deze te openen, raad vervolgens waar het andere kaartje is. "/><LineBreak/><Run Text="Bij een fout mag de volgende speler."/><LineBreak/><Run Text="Druk op "/><Run FontWeight="Bold" Text="reset "/><Run Text="om opniew te beginnen."/><LineBreak/><Run Text="Druk op "/><Run FontWeight="Bold" Text="opslaan "/><Run Text="om het spel op te slaan. "/></TextBlock>
+        <Label Content="Spel" HorizontalAlignment="Left" Margin="55,156,0,0" VerticalAlignment="Top" Background="#FF5151DE" Width="75" Foreground="White"/>
+        <Label Content="Instellingen" HorizontalAlignment="Left" Margin="55,272,0,0" VerticalAlignment="Top" Background="#FF5151DE" Width="75" Foreground="White"/>
+        <Label Content="Highscores" HorizontalAlignment="Left" Margin="55,362,0,0" VerticalAlignment="Top" Background="#FF5151DE" Width="75" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="165,272,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="71" Width="555" Background="#FF5151DE" Foreground="White"><Run FontWeight="Bold" Text="Grid grootte - "/><Run Text="Bepaal hoeveel kaarten je wil."/><LineBreak/><Run FontWeight="Bold" Text="Aantal sets goed voor toekennen punten - "/><Run Text="Aantal te raden sets voordat je de punten krijgt."/><LineBreak/><Run FontWeight="Bold" Text="Thema - "/><Run Text="Bepaal het thema van de kaartjes."/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run FontWeight="Bold"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="165,360,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="555" Background="#FF5151DE" Foreground="White"><Run Text="Hier kun je zien wie de hoogste score heeft behaald, zorg ervoor dat je je naam invoerd voor je het spel begint om in de lijst terecht te komen. "/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run FontWeight="Bold"/><LineBreak/><Run/></TextBlock>
+        <Label Content="   Help" HorizontalAlignment="Left" Margin="330,9,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.909,0.577" Background="#FF5151DE" Foreground="White" Width="90" Height="36" FontSize="20"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Memorygame.SpelWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Memorygame"
+        mc:Ignorable="d"
+        Closing="schermSluiten"
+        Title="SpelWindow" Height="900" Width="1200">
+    <Grid Background="Black" x:Name="spelstartenframe">
+        <TextBlock x:Name="Memory_game" Margin="0,0,0,0" TextWrapping="Wrap" HorizontalAlignment="Center" Width="400" FontSize="36" Foreground="#FF1B1B1B" TextAlignment="Center" FontWeight="Bold" Background="#FF5151DE" Height="100" VerticalAlignment="Top" Text="Nieuw spel starten"/>
+        <TextBox HorizontalAlignment="Center" Height="40" Margin="0,150,0,0" TextWrapping="Wrap" Text="{Binding Speler1}" VerticalAlignment="Top" Width="250" FontSize="18" HorizontalContentAlignment="Center"/>
+        <TextBox HorizontalAlignment="Center" Height="40" Margin="0,220,0,0" TextWrapping="Wrap" Text="{Binding Speler2}" VerticalAlignment="Top" Width="250" HorizontalContentAlignment="Center" FontSize="18"/>
+        <Button x:Name="Go" Content="Go for it!" Margin="0,300,0,0" VerticalAlignment="Top" Height="60" Click="Spel_starten" Background="#FF5151DE" FontSize="36" RenderTransformOrigin="1,0" BorderBrush="Black" Foreground="White"/>
+    </Grid>
+</Window>

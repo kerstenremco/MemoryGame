@@ -1,0 +1,14 @@
+﻿<Window x:Class="Memorygame.Highscores"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Memorygame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="800" WindowStyle="ThreeDBorderWindow">
+    <Grid Background="Black">
+        <TextBlock x:Name="Memory_game" Margin="0,0,0,0" TextWrapping="Wrap" HorizontalAlignment="Center" Width="400" FontSize="36" Foreground="#FF1B1B1B" TextAlignment="Center" FontWeight="Bold" Background="#FF5151DE" Height="100" VerticalAlignment="Top" Text="Highscores"/>
+        <Grid x:Name="lijst" Width="700" Margin="53,137,42,118.5"/>
+        <Button x:Name="Exit" Content="Exit" Margin="0,590,0,0" VerticalAlignment="Top" Height="60" Click="Button_Exit" Background="#FF5151DE" FontSize="36" RenderTransformOrigin="1,0" BorderBrush="Black" Foreground="White" AutomationProperties.HelpText="Sluit de game"/>
+    </Grid>
+</Window>

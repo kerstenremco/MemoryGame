@@ -1,0 +1,76 @@
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\bin\Debug\Memorygame.exe.config
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\bin\Debug\Memorygame.exe
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\bin\Debug\Memorygame.pdb
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Memorygame.csprojAssemblyReference.cache
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\MainWindow.g.cs
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\App.g.cs
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Memorygame_MarkupCompile.cache
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Memorygame_MarkupCompile.lref
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\MainWindow.baml
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Memorygame.g.resources
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Memorygame.Properties.Resources.resources
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Memorygame.csproj.GenerateResource.cache
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Memorygame.csproj.CoreCompileInputs.cache
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Memorygame.exe
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Memorygame.pdb
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Spel.g.cs
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Spel.baml
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\SpelWindow.g.cs
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\SpelWindow.baml
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Highscores.g.cs
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Highscores.baml
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Instellingen.g.cs
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Instellingen.baml
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\bin\Debug\Memorygame.exe.config
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\bin\Debug\Memorygame.exe
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\bin\Debug\Memorygame.pdb
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Memorygame.csprojAssemblyReference.cache
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Highscores.g.cs
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Instellingen.g.cs
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\MainWindow.g.cs
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Spel.g.cs
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\SpelWindow.g.cs
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\App.g.cs
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Memorygame_MarkupCompile.cache
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Memorygame_MarkupCompile.lref
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Highscores.baml
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Instellingen.baml
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\MainWindow.baml
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Spel.baml
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\SpelWindow.baml
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Memorygame.g.resources
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Memorygame.Properties.Resources.resources
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Memorygame.csproj.GenerateResource.cache
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Memorygame.csproj.CoreCompileInputs.cache
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Memorygame.exe
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Memorygame.pdb
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Help.g.cs
+C:\Users\Jillis\Documents\GitHub\Memory-Game\Memorygame\obj\Debug\Help.baml
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Help.g.cs
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\obj\Debug\Help.baml
+Y:\School 2\Memory\Memorygame\Memory-Game\Memorygame\bin\Debug\Memorygame.xml
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\bin\Debug\Memorygame.exe.config
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\bin\Debug\Memorygame.xml
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\bin\Debug\Memorygame.exe
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\bin\Debug\Memorygame.pdb
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Memorygame.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Help.g.cs
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Highscores.g.cs
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Instellingen.g.cs
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Spel.g.cs
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\SpelWindow.g.cs
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Memorygame_MarkupCompile.cache
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Memorygame_MarkupCompile.lref
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Help.baml
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Highscores.baml
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Instellingen.baml
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Spel.baml
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\SpelWindow.baml
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Memorygame.g.resources
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Memorygame.Properties.Resources.resources
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Memorygame.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Memorygame.exe
+\\Mac\Home\Desktop\Memory\Memory-Game\Memorygame\obj\Debug\Memorygame.pdb

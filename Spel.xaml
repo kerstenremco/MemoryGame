@@ -1,0 +1,47 @@
+﻿<Page x:Name="MemoryScherm" x:Class="Memorygame.Spel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Memorygame"
+      mc:Ignorable="d" 
+      d:DesignHeight="850" d:DesignWidth="1200"
+      Title="Spel">
+    <Canvas Width="1200" Height="900">
+        <Canvas Width="1200" Height="200" Background="Black">
+            <Canvas Width="500" Height="170" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="350,15,0,0" Background="#FF5151DE">
+                <TextBlock Foreground="White" HorizontalAlignment="Center" TextAlignment="Center" FontSize="18" Width="500">
+                    <Run Text="Score" FontWeight="Bold"></Run>
+                    <LineBreak />
+                    <Run Text="{Binding Path=naamSpeler1}"></Run>
+                    <Run Text=" - "></Run>
+                    <Run Text="{Binding Path=naamSpeler2}"></Run>
+                    <LineBreak />
+                    <Run Text="{Binding Path=huidigeScoreSpeler1}"></Run>
+                    <Run Text=" - "></Run>
+                    <Run Text="{Binding Path=huidigeScoreSpeler2}"></Run>
+                    <LineBreak />
+                    <Run Text="{Binding Path=naamHuidigeSpeler}"></Run>
+                    <Run Text="is aan de beurt"></Run>
+                    <LineBreak />
+                    <Run Text="Nog "></Run>
+                    <Run Text="{Binding Path=aantalComboTeGaan}"></Run>
+                    <Run Text=" combo's te gaan"></Run>
+                    <LineBreak />
+                    <Run Text="De multiplier staat op"></Run>
+                    <Run Text="{Binding Path=huidigeMultiplier}"></Run>
+                </TextBlock>
+            </Canvas>
+            <Button Margin="1040,20,20,0" Width="130" Height="40" Content="Reset" Click="resetSpelKnop" Background="#FF5151DE" BorderThickness="0" Foreground="White" FontSize="18" />
+            <Button Margin="1040,75,20,0" Width="130" Height="40" Content="Opslaan" Click="opslaan" Background="#FF5151DE" BorderThickness="0" Foreground="White" FontSize="18" />
+            <Button Margin="1040,130,20,0" Width="130" Height="40" Content="Toggle muziek" Click="muziek" Background="#FF5151DE" BorderThickness="0" Foreground="White" FontSize="18" />
+
+        </Canvas>
+        
+        <Grid x:Name="MemoryGrid" Width="1200" Height="700" Margin="0,200,0,0"></Grid>
+    </Canvas>
+    
+
+
+
+</Page>
