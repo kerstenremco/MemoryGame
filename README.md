@@ -9,3 +9,8 @@ Pleate note that this game will create an folder called 'memorygame' in your doc
 
 Open het project in Visual Studio en debug.
 Er zal een map 'memorygame' worden aangemaakt in Mijn Documenten waarin de instellingen en opgeslagen spellen worden opgeslagen.
+
+# Requirements
+.NET framework 4.7.2 or above
+
+Minimaal .NET Framework 4.7.2
